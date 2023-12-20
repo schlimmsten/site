@@ -1,0 +1,18 @@
+.me h1{
+    text-align: center;
+}
+.me p{
+    text-align: center;
+}
+.me img{
+    margin: 10px auto 20px;
+    display: block;
+    min-width: 500px;
+    max-width: 500px;
+    min-height: 500px;
+    max-height: 500px;
+    padding-top: 40px;
+}
+.TG {
+    margin-bottom: -7px;
+}

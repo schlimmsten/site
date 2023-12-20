@@ -1,0 +1,19 @@
+.TG {
+    margin-bottom: -7px;
+}
+.register {
+    text-align: center;
+    margin: 7px;
+    font-size: 17px;
+    font-weight: bold;
+    padding-top: 100px;
+    line-height: 15px;
+}
+.field {
+    margin: 8px;
+}
+.button {
+    margin: 6px;
+    line-height: 15px;
+    width: 177px;
+}
